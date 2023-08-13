@@ -21,8 +21,6 @@ para subir  frontend  correr este comando:
 npm run start
 
 
-ESTE ES EL LINK DEL DEMO DE LA APP TODO:
-https://youtu.be/6ckBQ-fpcuI 
 
 
 
