@@ -1,0 +1,10 @@
+.app-container {
+    min-height: 350px;
+}
+.header-inline {
+    display: flex;
+    align-items: center;
+}
+.header-inline span {
+    margin-left: 40px;
+}
